@@ -1,6 +1,6 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: FDAV
+subtitle: Un example de modification
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
@@ -31,7 +31,8 @@ products:
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
   - image: /img/apple-touch-icon.png
-    text: test
+    text: Un nouveau produit
+  - {}
 values:
   heading: Our values
   text: >-
